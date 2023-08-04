@@ -7,3 +7,8 @@ li {
     background-color: grey;
     color: blue;
 }
+
+.steps li {
+    background-color: green;
+    color: blue;
+}
