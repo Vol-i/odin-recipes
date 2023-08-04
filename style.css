@@ -2,3 +2,8 @@ li {
     background-color: yellow;
     color: blue;
 }
+
+.ingredients li {
+    background-color: grey;
+    color: blue;
+}
